@@ -1,0 +1,19 @@
+
+#customForm input.error{
+	color:red;
+}
+#customForm input.valid{
+	color:green;
+}
+#customForm div span {
+	margin-left:10px;
+	color: #b1b1b1;
+	font-size:10px;
+	font-style:italic;
+}
+#customForm div span.error{
+	color:red;
+}
+#customForm div span.valid{
+	color.green;
+}
